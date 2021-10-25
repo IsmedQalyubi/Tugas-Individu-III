@@ -10,4 +10,5 @@ a.pada Terminal\
 ![image](https://raw.githubusercontent.com/IsmedQalyubi/Tugas-Individu-III/main/Screenshot%20(34).png) 
 Pertama,ketik python kemudian klik enter.Kemudian tulis script python anda,setelah itu klik enter.Dan script python akan dijalankan/dieksekusi.\
 b.pada Vscode\
-![image]
+![image](https://raw.githubusercontent.com/IsmedQalyubi/Tugas-Individu-III/main/Screenshot%20(38).png) 
+Pertama buka file python pada open editor, kemudian klik Run maka file python akan dieksekusi/dijalankan.
