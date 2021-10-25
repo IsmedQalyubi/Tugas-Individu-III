@@ -7,4 +7,5 @@ Artinya untuk mencetak atau menampilkan objek ke perangkat keluaran(layar) atau 
 Artinya untuk menampilkan Hello World atau melihat output berupa text Hello World.
 4. PRAKTIKKAN CARA EKSEKUSI  EKSEKUSI PL PYTHON  PADA:\
 a.pada Terminal\
-! [image]
+![image](https://raw.githubusercontent.com/IsmedQalyubi/Tugas-Individu-III/main/Screenshot%20(34).png) 
+Pertama,ketik python kemudian klik enter.Kemudian tulis script python anda,setelah itu klik enter. 
